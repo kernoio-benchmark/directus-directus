@@ -1,0 +1,39 @@
+2026-03-17 11:42:03.408 [INFO] index - Scanning files
+2026-03-17 11:42:05.148 [CHECKMARK] index - Files scanned
+2026-03-17 11:42:05.149 [INFO] index - Found 39 module(s)
+2026-03-17 11:42:05.150 [INFO] index - Detected applications: directus, @directus/api
+2026-03-17 11:42:05.155 [INFO] index - Expected exactly 1 module, found 39 — skipping analysis
+2026-03-17 11:42:05.453 [CHECKMARK] index - Files scanned
+2026-03-17 11:42:05.453 [INFO] index - Found 39 module(s)
+2026-03-17 11:42:05.453 [INFO] index - Detected applications: directus, @directus/api
+2026-03-17 11:42:05.492 [CHECKMARK] index - Files scanned
+2026-03-17 11:42:05.493 [INFO] index - Found 39 module(s)
+2026-03-17 11:42:05.494 [INFO] index - Detected applications: directus, @directus/api
+2026-03-17 11:42:05.504 [INFO] index - Indexing your project
+2026-03-17 11:42:11.565 [CHECKMARK] index - Project indexed
+2026-03-17 11:42:11.567 [INFO] index - Analyzing imports
+2026-03-17 11:42:42.161 [CHECKMARK] index - Imports analyzed
+2026-03-17 11:42:42.230 [INFO] index - Analyzing build configuration
+2026-03-17 11:42:42.257 [INFO] index - Analyzing external services
+2026-03-17 11:42:42.258 [INFO] index - Analyzing security
+2026-03-17 11:43:21.174 [CHECKMARK] index - Security analyzed
+2026-03-17 11:43:41.998 [CHECKMARK] index - External services analyzed
+2026-03-17 11:43:53.412 [CHECKMARK] index - Build configuration analyzed
+2026-03-17 11:43:53.415 [INFO] composeAgent - Generating Dockerfile
+2026-03-17 11:47:13.667 [CHECKMARK] composeAgent - Dockerfile generated
+2026-03-17 11:47:13.669 [INFO] composeAgent - Gathering context
+2026-03-17 11:48:22.369 [CHECKMARK] composeAgent - Context gathered
+2026-03-17 11:48:22.371 [INFO] composeAgent - Generating docker-compose.yaml
+2026-03-17 11:57:56.583 [CHECKMARK] composeAgent - docker-compose.yaml generated
+2026-03-17 11:57:56.710 [CHECKMARK] index - Project indexed
+2026-03-17 11:57:56.722 [CHECKMARK] index - Imports analyzed
+2026-03-17 11:57:56.740 [CHECKMARK] index - Build configuration analyzed
+2026-03-17 11:57:56.747 [CHECKMARK] composeAgent - Dockerfile generated
+2026-03-17 11:57:56.812 [CHECKMARK] index - Project indexed
+2026-03-17 11:57:56.821 [CHECKMARK] index - Imports analyzed
+2026-03-17 11:57:56.837 [CHECKMARK] index - Build configuration analyzed
+2026-03-17 11:57:56.842 [CHECKMARK] index - Security analyzed
+2026-03-17 11:57:56.842 [CHECKMARK] index - External services analyzed
+2026-03-17 11:57:56.845 [CHECKMARK] composeAgent - Dockerfile generated
+2026-03-17 11:57:56.853 [CHECKMARK] composeAgent - Context gathered
+2026-03-17 11:57:56.861 [CHECKMARK] composeAgent - docker-compose.yaml generated
