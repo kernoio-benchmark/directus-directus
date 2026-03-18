@@ -42,3 +42,30 @@
 2026-03-18 11:22:06.749 [INFO] index - Found 39 module(s)
 2026-03-18 11:22:06.749 [INFO] index - Detected applications: directus, @directus/api
 2026-03-18 11:22:06.752 [INFO] index - Indexing your project
+2026-03-18 11:22:17.907 [CHECKMARK] index - Project indexed
+2026-03-18 11:22:17.908 [INFO] index - Analyzing imports
+2026-03-18 11:22:45.513 [CHECKMARK] index - Imports analyzed
+2026-03-18 11:22:45.533 [INFO] index - Analyzing external services
+2026-03-18 11:22:45.534 [INFO] index - Analyzing security
+2026-03-18 11:22:45.554 [INFO] index - Analyzing build configuration
+2026-03-18 11:23:03.441 [CHECKMARK] index - External services analyzed
+2026-03-18 11:23:18.796 [CHECKMARK] index - Security analyzed
+2026-03-18 11:24:02.042 [CHECKMARK] index - Build configuration analyzed
+2026-03-18 11:24:02.044 [INFO] composeAgent - Generating Dockerfile
+2026-03-18 11:24:48.514 [CHECKMARK] composeAgent - Dockerfile generated
+2026-03-18 11:24:48.516 [INFO] composeAgent - Gathering context
+2026-03-18 11:25:35.687 [CHECKMARK] composeAgent - Context gathered
+2026-03-18 11:25:35.688 [INFO] composeAgent - Generating docker-compose.yaml
+2026-03-18 11:26:39.703 [CHECKMARK] composeAgent - docker-compose.yaml generated
+2026-03-18 11:26:39.831 [CHECKMARK] index - Project indexed
+2026-03-18 11:26:39.839 [CHECKMARK] index - Imports analyzed
+2026-03-18 11:26:39.853 [CHECKMARK] index - Build configuration analyzed
+2026-03-18 11:26:39.860 [CHECKMARK] composeAgent - Dockerfile generated
+2026-03-18 11:26:40.003 [CHECKMARK] index - Project indexed
+2026-03-18 11:26:40.013 [CHECKMARK] index - Imports analyzed
+2026-03-18 11:26:40.027 [CHECKMARK] index - Security analyzed
+2026-03-18 11:26:40.027 [CHECKMARK] index - External services analyzed
+2026-03-18 11:26:40.029 [CHECKMARK] index - Build configuration analyzed
+2026-03-18 11:26:40.036 [CHECKMARK] composeAgent - Dockerfile generated
+2026-03-18 11:26:40.042 [CHECKMARK] composeAgent - Context gathered
+2026-03-18 11:26:40.048 [CHECKMARK] composeAgent - docker-compose.yaml generated
