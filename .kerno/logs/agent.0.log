@@ -29,3 +29,16 @@
 2026-03-18 11:22:02.596 [CHECKMARK] index - Imports analyzed
 2026-03-18 11:22:02.612 [CHECKMARK] index - Build configuration analyzed
 2026-03-18 11:22:02.619 [CHECKMARK] composeAgent - Dockerfile generated
+2026-03-18 11:22:02.705 [CHECKMARK] index - Project indexed
+2026-03-18 11:22:02.719 [CHECKMARK] index - Imports analyzed
+2026-03-18 11:22:02.737 [CHECKMARK] index - Security analyzed
+2026-03-18 11:22:02.737 [CHECKMARK] index - External services analyzed
+2026-03-18 11:22:02.738 [CHECKMARK] index - Build configuration analyzed
+2026-03-18 11:22:02.745 [CHECKMARK] composeAgent - Dockerfile generated
+2026-03-18 11:22:02.751 [CHECKMARK] composeAgent - Context gathered
+2026-03-18 11:22:02.757 [CHECKMARK] composeAgent - docker-compose.yaml generated
+2026-03-18 11:22:06.731 [CHECKMARK] composeAgent - Docker compose project running
+2026-03-18 11:22:06.749 [CHECKMARK] index - Files scanned
+2026-03-18 11:22:06.749 [INFO] index - Found 39 module(s)
+2026-03-18 11:22:06.749 [INFO] index - Detected applications: directus, @directus/api
+2026-03-18 11:22:06.752 [INFO] index - Indexing your project
